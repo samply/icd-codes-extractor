@@ -2,7 +2,7 @@
 
 Extracts ICD-O-3 & ICD10 codes from files & creates CSV files out of those, so that anyone wanting to use these codes may re-shape the data in a desired format.
 
-| Codes | Source | Origin |
+| Codes | Source | Target |
 |-------|--------|--------|
 | ICDO3 | `resources/sitetype.icdo3.20220429.pdf` | `resources/icdo3_full.csv` |
 | ICD10 | `resources/catalogue-with-icd10-codes.json` | `resources/icd10_full.csv` |
